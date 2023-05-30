@@ -1,0 +1,5 @@
+../Src/main.c:37:6:GenerateException	4	static
+../Src/main.c:41:6:SVC_Handler	4	static
+../Src/main.c:48:5:main	16	static
+../Src/main.c:64:5:ADD	24	static
+../Src/main.c:68:29:Changepsp	0	static,ignoring_inline_asm
