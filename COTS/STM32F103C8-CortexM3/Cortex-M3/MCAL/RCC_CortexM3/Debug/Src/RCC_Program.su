@@ -1,0 +1,6 @@
+../Src/RCC_Program.c:24:9:RCC_VoidSetClkStatues	24	static
+../Src/RCC_Program.c:106:9:RCC_VoidSetSysClk	24	static
+../Src/RCC_Program.c:124:9:RCC_VoidHSEConfig	24	static
+../Src/RCC_Program.c:139:9:RCC_voidEnablePeripheralBus	24	static
+../Src/RCC_Program.c:186:9:RCC_voidDisablePeripheralBus	24	static
+../Src/RCC_Program.c:232:9:RCC_VoidPLLConfig	24	static

@@ -1,0 +1,5 @@
+NVIC_Program.c:18:9:NVICEnable	2
+NVIC_Program.c:38:9:NVICDisable	2
+NVIC_Program.c:59:9:NVIC_SetPendingFlag	2
+NVIC_Program.c:80:9:NVIC_ClearPendingFlag	2
+NVIC_Program.c:103:9:NVIC_GetActiveFlag	3
